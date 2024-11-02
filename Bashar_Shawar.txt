@@ -1,0 +1,7 @@
+git clone https://github.com/baraajab/team_project-software         
+
+git add .
+
+git commit -m "this is bashar shawar commit"
+
+git push
